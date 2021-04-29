@@ -1,1 +1,6 @@
 The application of AI include computer vision, NLP, data analysis, and prediction.
+
+
+It was the worst of times, and it was the best times.
+
+I will always be brave when encounter any problem.
